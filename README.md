@@ -63,3 +63,12 @@ Drivers are obligated to volunteer for an overtime or extra priority event shift
 - Additional Services Shift Position
 
 Compensations are given to the drivers who commit their overtime for these shifts or drivers who commit their extra time for these shifts.
+
+# Frequently Asked Questions
+----------------
+
+<details>
+<summary>Do I get overtime pay for volunterring for a Priority Event Shift?</summary>
+<br>
+Yes, it will take 24 hours for it to apply to your balance.
+</details>
