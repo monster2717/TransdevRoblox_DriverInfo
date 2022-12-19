@@ -59,6 +59,5 @@ Drivers are obligated to volunteer for an overtime or extra priority event shift
 
 **These shifts are most likely to be available during a priority event shift for drivers:**
 
-`-` Event Transport Shift Position
-
-`-` Additional Services Shift Position
+- Event Transport Shift Position
+- Additional Services Shift Position
