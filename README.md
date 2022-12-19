@@ -61,3 +61,5 @@ Drivers are obligated to volunteer for an overtime or extra priority event shift
 
 - Event Transport Shift Position
 - Additional Services Shift Position
+
+Compensations are given to the drivers who commit their overtime for these shifts or drivers who commit their extra time for these shifts.
