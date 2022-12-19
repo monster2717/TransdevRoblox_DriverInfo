@@ -21,6 +21,7 @@ Drivers should first check the exterior of the bus:
 - Checking that the bus is clean on the inside
 </details>
 
+----------------
 
 <details>
 <summary>Operating the doors</summary>
