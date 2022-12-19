@@ -9,6 +9,22 @@ Below is information that can help you with your normal bus shift, these drop bo
 ----------------
 
 <details>
+<summary>Signing Into/Out of Duty</summary>
+<br>
+When Signing into duty, drivers should first check their shift paper for any notices and to see their shifts, drivers should not worry about logging when they start you shift as the game automatically log it in for you in our system server. 
+
+When Signing out of duty, drivers should finalise their shift paper by 
+
+Drivers should first check the exterior of the bus: 
+- Checking the indicators
+- Checking the doors work
+- Checking around the buses exterior frame for damages
+- Checking that the bus is clean on the inside
+</details>
+
+----------------
+
+<details>
 <summary>Checking a Bus for defects</summary>
 <br>
 Checking a bus for defects is important to give passengers a feeling that they are safe on the bus and that it is operational, checking for defects can be anything for faulty bus stop buttons and passenger bus doors. 
@@ -61,7 +77,7 @@ These shifts are completely different to normal shifts when you are signing on, 
 - Event Transport Shift Position
 - Additional Services Shift Position
 
-Compensations are given to the drivers who commit their overtime for these shifts or drivers who commit their extra time for these shifts.
+Compensations are given to the Drivers who commit to a Priority Shift position.
 
 ----------------
 
