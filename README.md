@@ -31,3 +31,17 @@ The doors can be operated by checking your driver dash or the driver control pan
 Drivers should check if the doors and closed before continuing to drive to the next stop or destination.
 </details>
 
+
+----------------
+
+<details>
+<summary>Operating the Indicators</summary>
+<br>
+The indicators are important when alighting and boarding passangers, the left indicator must be turned on when pulling to a bus stop and right to allow commuters to stop and allow you to exit the bus stop.
+
+***Keybinds:***
+`X` for Hazards
+`Z` for Left
+`C` for Right
+</details>
+
