@@ -57,6 +57,8 @@ Priortiy Event Shifts are required if transport for NSW requires an event timeta
 
 Drivers are obligated to volunteer for an overtime or extra priority event shift position, to transport passangers to an event or to help services recieve additional services to minimise bus over capacity and delays across the bus network operated by transdev.
 
-***These shifts are most likely to be available during a priority event shift for drivers:***
+**These shifts are most likely to be available during a priority event shift for drivers:**
+
 `-` Event Transport Shift Position
+
 `-` Additional Services Shift Position
