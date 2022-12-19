@@ -7,6 +7,8 @@ Drivers are dedicated to driving passengers from point A to point B without dela
 ***Driver Information***
 Below is information that can help you with your normal bus shift, these drop boses given you a detailed description of how to operate your bus and the starting procedures before entering a new shift:
 
+----------------
+
 <details>
 <summary>Checking a Bus for defects</summary>
 <br>
