@@ -20,3 +20,13 @@ Drivers should first check the exterior of the bus:
 - Checking around the buses exterior frame for damages
 - Checking that the bus is clean on the inside
 </details>
+
+
+<details>
+<summary>Operating the doors</summary>
+<br>
+The doors can be operated by checking your driver dash or the driver control panel on the driver cab roof, the doors are labelled as doors and are also labelled as rear and front to help you with the door controls.
+
+Drivers should check if the doors and closed before continuing to drive to the next stop or destination.
+</details>
+
