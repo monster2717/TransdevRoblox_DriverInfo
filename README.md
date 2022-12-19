@@ -48,3 +48,14 @@ The indicators are important when alighting and boarding passangers, the left in
 `C` for Right
 </details>
 
+----------------
+----------------
+**Priority Event Shifts**
+Priortiy Event Shifts are required if transport for NSW requires an event timetable to be activated for bus operators for a certain period of time to transport people from point A to B, these require 10 to 15 minute frequent bus services on selected routes which need to be fulfilled by drivers along with the normal bus timetable.
+
+**Driver Event Shifts Info**
+Drivers are obligated to volunteer for an overtime or extra priority event shift position, to transport passangers to an event or to help services recieve additional services to minimise bus over capacity and delays across the bus network operated by transdev.
+
+***These shifts are most likely to be available during a priority event shift for drivers:***
+`-` Event Transport Shift Position
+`-` Additional Services Shift Position
