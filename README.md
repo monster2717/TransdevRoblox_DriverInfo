@@ -40,6 +40,7 @@ Drivers should check if the doors and closed before continuing to drive to the n
 The indicators are important when alighting and boarding passangers, the left indicator must be turned on when pulling to a bus stop and right to allow commuters to stop and allow you to exit the bus stop.
 
 ***Keybinds:***
+ 
 `X` for Hazards
 `Z` for Left
 `C` for Right
