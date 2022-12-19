@@ -51,7 +51,7 @@ The indicators are important when alighting and boarding passangers, the left in
 
 ----------------
 ----------------
-**Priority Event Shifts**
+*Priority Event Shifts*
 
 Priortiy Event Shifts are required if transport for NSW requires an event timetable to be activated for bus operators for a certain period of time to transport people from point A to B, these require 10 to 15 minute frequent bus services on selected routes which need to be fulfilled by drivers along with the normal bus timetable.
 
