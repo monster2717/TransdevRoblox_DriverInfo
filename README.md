@@ -65,10 +65,35 @@ Drivers are obligated to volunteer for an overtime or extra priority event shift
 Compensations are given to the drivers who commit their overtime for these shifts or drivers who commit their extra time for these shifts.
 
 # Frequently Asked Questions
-----------------
 
 <details>
 <summary>Do I get overtime pay for volunterring for a Priority Event Shift?</summary>
 <br>
 Yes, it will take 24 hours for it to apply to your balance.
 </details>
+
+----------------
+
+<details>
+<summary>What would happen if a bus stop is being blocked by a parked car?</summary>
+<br>
+Alight and board passangers firstly and then notify police about the illegally parked car, police will tow the car once you have notified them.
+</details>
+
+----------------
+
+<details>
+<summary>How do I rank up?</summary>
+<br>
+It depending on your acitivity and your duties you commit to, the Bus Operations Team makes that decision and tells the General Manager about it which will be considered effectively.
+</details>
+
+----------------
+
+<details>
+<summary>What are the consequences if I fail/skip a stop on purpose?</summary>
+<br>
+You will be given a warning about the incident and if you do it again, a possible demotion to transport officer of awaiting placement may be imminent.
+</details>
+
+----------------
