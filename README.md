@@ -42,7 +42,9 @@ The indicators are important when alighting and boarding passangers, the left in
 ***Keybinds:***
  
 `X` for Hazards
+ 
 `Z` for Left
+ 
 `C` for Right
 </details>
 
